@@ -127,7 +127,7 @@ footer:before {content:""; display:block; width:100%; height:100%; position:abso
 .error {text-align:center;}
 .weather {display:block; max-width:500px; height:auto; margin:0 auto;}
 .temp {width:50%; display:block; float:left; font-size:100px; line-height:80px;}
-.temp-lowhigh {width:100%; font-size:38px; line-height:38px;}
+.temp-lowhigh {width:100%; font-size:36px; line-height:36px;}
 .city {width:50%; display:block; float:left; opacity:0.8; padding-top:36px;}
 .desc {width:50%; display:block; float:left; opacity:0.8;}
 .humidity {width:50%; display:block; float:left; opacity:0.8;}
